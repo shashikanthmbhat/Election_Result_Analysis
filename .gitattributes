@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.vba linguist-language=VBA
+*.bas linguist-language=VBA
+*.cls linguist-language=VBA
+*.frm linguist-language=VBA
+*.csv linguist-language=VBA
