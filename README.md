@@ -1,11 +1,4 @@
 <!---Heading--->
-<h1>Indian General Election 2024 Analysis</h1>
-<p alingn='justify'>
- Here is your updated, high-density LinkedIn summary. It is fully restructured to integrate your automation workflow, advanced Power BI visuals, and deep-dive analytics under 500 words.
-</p>
-&nbsp;
-<!--------------------------------------------------------------------------------------------------------------------------------------------------->
-
 <div align='justify'>
  <h2>📊 Project Spotlight: 2024 Indian General Election Analytics & Automation Pipeline</h2>
 <p align='justify'>
@@ -61,22 +54,26 @@ Here is a breakdown of the technical architecture and deep-dive analytics.
  <p>
   The dashboard dissects the data through three granular analytical lenses:
 <!-----List--->
-<dl>
- <dt>Alliance-Wise Performance</dt>
- <dd>
-  Visualized the dramatic shift from single-party dominance to coalition mechanics. The NDA secured 293 seats, crossing the 272 majority threshold, while the INDIA bloc mounted a strong challenge with 234 seats.
- </dd>
- 
-  <dt>State-Wise Fragmentation</dt>
-   <dd>
+  <ol>
+   <li>
+    <strong><em>Alliance-Wise Performance</em></strong>
+    <br>
+    Visualized the dramatic shift from single-party dominance to coalition mechanics. The NDA secured 293 seats, crossing the 272 majority threshold, while the INDIA bloc mounted a strong challenge with 234 seats.
+   </li>
+   <br>
+   <li>
+    <strong><em>State-Wise Fragmentation</em></strong>
+    <br>
     Highlighted regional polarization. The data reveals how the INDIA bloc made massive seat-share inroads in the crucial Hindi heartland (like Uttar Pradesh) and maintained a stronghold in the South, contrasting with the NDA’s dominance in Western India.
-   </dd>
-   
-   <dt>Party-Wise Diagnostics vs. Vote Share</dt>
-   <dd>
-    Uncovered critical statistical paradoxes using a Ribbon Chart. While the BJP remained the single largest party with 240 seats, a deep dive into localized vote-share percentages explains why their seat conversion rate dropped compared to 2019, while the INC showed a strong resurgence to 99 seats.
-   </dd>
-</dl>
+   </li>
+   <br>
+<li>
+    <strong><em>Party-Wise Diagnostics vs. Vote Share</em></strong>
+    <br>
+     Uncovered critical statistical paradoxes using a Ribbon Chart. While the BJP remained the single largest party with 240 seats, a deep dive into localized vote-share percentages explains why their seat conversion rate dropped compared to 2019, while the INC showed a strong resurgence to 99 seats.
+   </li>
+  </ol>
+
  </p>
 </div>
 &nbsp;
@@ -89,7 +86,7 @@ Here is a breakdown of the technical architecture and deep-dive analytics.
 </div>
 &nbsp;
  <!---------------------------------------------------------------------------------------------------------------------------------------------------> 
-# Screenshots
+ <h2>🖼️ Screenshots</h2>
 <p align='justify'>
  <img src="/Img/Screenshots/01_Home.png" width="49%" height="70%">
  &nbsp;
